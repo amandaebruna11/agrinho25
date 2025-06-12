@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 20;
+    padding: 10;
     font-family: "Open Sans", sans-serif;
 }
 
@@ -23,7 +23,7 @@
 }
 
 .cabeçalho-logotipo {
-    width: 120px;
+    width: 150px;
 }
 
 .cabeçalho-lista-item1 {
